@@ -2,6 +2,8 @@
 # install.packages("readr")
 # install.packages("jiebaR")
 # install.packages("knitr")
+# install.packages("tidytext")
+# install.packages("ggplot2")
 library(readr)
 library(tidytext)
 library(jiebaR)
